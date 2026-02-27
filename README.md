@@ -9,7 +9,7 @@ A collection of projects showcasing skills in machine learning, statistical anal
 | `ml-fundamentals/` | Perceptron from Scratch, KNN & Model Selection | ML theory, algorithm implementation |
 | `statistical-analysis/` | Regression Analysis, E-Commerce EDA | Statistical inference, distribution fitting |
 | `data-engineering/` | Stock Price Anomaly Detector | REST APIs, data pipelines |
-| `python-projects/` | Black-Scholes Greeks, Portfolio Analyser | Quantitative finance, clean Python |
+
 
 ## Tech Stack
 Python · NumPy · Pandas · SciPy · Matplotlib · scikit-learn · statsmodels · Requests
